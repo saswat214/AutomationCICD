@@ -1,0 +1,7 @@
+Saswatautomation\PageObjects\ConfirmationPage.class
+Saswatautomation\PageObjects\ProductCatalogue.class
+Saswatautomation\abstractComponent\AbstractComponent.class
+Saswatautomation\PageObjects\LandingPage.class
+Saswatautomation\PageObjects\CartPage.class
+Saswatautomation\PageObjects\CheckOutPage.class
+Saswatautomation\PageObjects\OrderPage.class
