@@ -15,7 +15,7 @@ import Saswatautomation.PageObjects.OrderPage;
 import Saswatautomation.PageObjects.ProductCatalogue;
 import Saswatautomation.TestComponents.BaseTest;
 
-
+//new comments
 public class SubmitOrderTests extends BaseTest{
 	String productName="ZARA COAT 3";
 	
